@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Midhun",
+      "email": "midhun@gmai.com",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Renjith Sasi",
+      "email": "sasi@gmai.com",
+      "gender": "male"
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}
